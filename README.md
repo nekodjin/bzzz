@@ -14,4 +14,4 @@ encoding can be found at [/docs.md](./docs.md).
 
 ## License
 This work is licensed under the BSD 3-Clause License. A copy of the license can
-be found at [/LICENSE](./license).
+be found at [/LICENSE](./LICENSE).
