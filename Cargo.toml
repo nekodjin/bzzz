@@ -1,0 +1,9 @@
+[package]
+name = "bzzz"
+version = "1.0.0"
+edition = "2018"
+license = "BSD-3-Clause"
+authors = ["Avery R. <contact@nekodjin.xyz>"]
+
+[dependencies]
+regex = "1.5"
