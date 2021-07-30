@@ -6,6 +6,7 @@ edition = "2018"
 license = "BSD-3-Clause"
 authors = ["Avery R. <contact@nekodjin.xyz>"]
 homepage = "https://github.com/nekodjin/bzzz"
+description = "Bee-Speak Translator"
 documentation = "https://github.com/nekodjin/bzzz/blob/master/docs.md"
 
 [dependencies]
